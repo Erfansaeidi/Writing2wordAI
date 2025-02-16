@@ -1,0 +1,5 @@
+pytesseract
+Pillow
+python-docx
+pdf2image
+fitz  # (PyMuPDF for PDF handling)
